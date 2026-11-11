@@ -4,6 +4,10 @@ Personality lets you remap remote buttons, loop local video screensavers, and se
 
 **Languages:** English and Russian. Change the language in Settings.
 
+![Personality home screen](docs/home.png)
+
+[Screen saver library](docs/screensavers.png) · [Settings](docs/settings.png)
+
 ## Install
 
 1. Download the APK from [Releases](https://github.com/investor63/personality-android-tv/releases).
